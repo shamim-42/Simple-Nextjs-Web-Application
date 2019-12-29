@@ -1991,7 +1991,7 @@ function About() {
       lineNumber: 8
     },
     __self: this
-  }, "This is the about page"));
+  }, "About ourself "));
 }
 
 /***/ }),
